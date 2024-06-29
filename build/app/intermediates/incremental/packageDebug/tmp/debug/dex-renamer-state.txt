@@ -1,0 +1,4 @@
+#Sat Jun 29 14:39:49 PDT 2024
+base.0=C\:\\Users\\ASUS\\StudioProjects\\comptetion\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
